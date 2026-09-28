@@ -1,36 +1,36 @@
 # Personal Task Manager
 
-## Project Details
-- **Project Code:** WST21-PM-2026-SF
-- **Student Name:** Walter Urbano Abarco
-- **Course & Year:** BSIT - 2nd Year
+**Project Code:** WST21-PM-2026-SF  
 
-## Technologies Used
-- Laravel
-- PHP
-- SQLite
-- Blade
-- HTML
-- CSS
-- Bootstrap 5
+**Student Name:** Jossel Marie Prado  
 
-## Project Description
+**Course & Year:** BSIT 2nd Year  
 
-Personal Task Manager is a Laravel-based web application for managing personal tasks.
+**Database Used:** MySQL  
 
-Users can:
-- Add Task
-- View Tasks
-- Edit Task
-- Delete Task
-- Update Status
+## Features
 
-## Database
+- **Add Task**
+<p align="center">
+  <img src="images/AddTask.jpg" alt="Add Task" width="600">
+</p>
 
-This project uses SQLite as its database.
+- **View Tasks**
+<p align="center">
+  <img src="images/ViewTask.jpg" alt="View Tasks" width="600">
+</p>
 
-## Laravel Structure
+- **Edit Task**
+<p align="center">
+  <img src="images/EditTask.jpg" alt="Edit Task" width="600">
+</p>
 
-The project demonstrates the following Laravel flow:
+- **Delete Task**
+<p align="center">
+  <img src="images/DeleteTask.jpg" alt="Delete Task" width="600">
+</p>
 
-Routes → Controller → Model → Database → Blade
+- **Update Status**
+<p align="center">
+  <img src="images/UpdateStatus.jpg" alt="Update Status" width="600">
+</p>
